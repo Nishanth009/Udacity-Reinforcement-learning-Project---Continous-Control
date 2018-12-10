@@ -13,7 +13,7 @@ The environment is solved using Deep Deterministic Policy Gradients, an actor-cr
 
 ### Deep learning model architecture:-<br>
 
-Algorithm uses two networks one for Actor and one for critic
+Algorithm uses two networks one for Actor and one for Critic
 
 Actor: 64->128<br>
 Critic: 64 -> 128
