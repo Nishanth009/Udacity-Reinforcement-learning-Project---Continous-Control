@@ -18,5 +18,7 @@ Install anaconda(python package manager)-python 3, then run ./install.sh file.Th
 
 ## Instructions
 
-Run **Continous_control.ipynb**. Agent uses DDPG for training and must get an average score of +30 (over 100 consecutive episodes, and over all agents) to solve the environment<br>
+Run **Continous_control.ipynb**. Agent uses DDPG for training and must get an average score of +30 (over 100 consecutive episodes, and over all agents) to solve the environment
+<br>
+
 Check **REPORT.md** for results and agents performance
