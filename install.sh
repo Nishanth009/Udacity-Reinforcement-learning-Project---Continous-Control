@@ -4,7 +4,7 @@ git clone https://github.com/udacity/deep-reinforcement-learning.git
 cd deep-reinforcement-learning/python
 pip install .
 python -m ipykernel install --user --name drlnd --display-name "drlnd"
-git clone https://github.com/Nishanth009/Udacity-Nano-Degree-RL-Project-Navigation
+git clone https://github.com/Nishanth009/Udacity-Reinforcement-learning-Project---Continous-Control.git
 cd Udacity-Reinforcement-learning-Project---Continous-Control
 wget "https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Linux.zip"
 unzip Reacher_Linux.zip
